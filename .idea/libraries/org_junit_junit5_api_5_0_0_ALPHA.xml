@@ -5,9 +5,13 @@
       <root url="jar://$PROJECT_DIR$/lib/junit5-api-5.0.0-ALPHA.jar!/" />
       <root url="jar://$PROJECT_DIR$/lib/opentest4j-1.0.0-ALPHA.jar!/" />
       <root url="jar://$PROJECT_DIR$/lib/junit-commons-5.0.0-ALPHA.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/junit5-api-5.0.0-ALPHA.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/opentest4j-1.0.0-ALPHA.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/junit-commons-5.0.0-ALPHA.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>
+      <root url="jar://$PROJECT_DIR$/lib/junit5-api-5.0.0-ALPHA-sources.jar!/" />
       <root url="jar://$PROJECT_DIR$/lib/junit5-api-5.0.0-ALPHA-sources.jar!/" />
     </SOURCES>
   </library>
